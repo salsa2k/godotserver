@@ -1,0 +1,17 @@
+{
+  "name": "Gameserver",
+  "version": "0.0.1",
+  "description": "Gameserver",
+  "main": "app.js",
+  "dependencies": {
+    "net": "latest",
+    "underscore": "latest"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Noronha",
+  "license": "BSD-2-Clause"
+}
