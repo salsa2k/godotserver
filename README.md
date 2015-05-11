@@ -1,4 +1,3 @@
-# godotserver
 Godot Engine Game Server
 ======================================
 Simple game server using NodeJS, using very simple authentication.
